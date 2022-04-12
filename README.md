@@ -16,7 +16,7 @@
 <center>
 <h3>Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/divanovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divanovich" height="30" width="40" /></a> <a href="https://github.com/Ivanov1ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" alt="divanovich" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divanovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divanovich" height="30" width="40" /></a>
 </p>
 
 <h3>Languages and Tools I've Worked With:</h3>
