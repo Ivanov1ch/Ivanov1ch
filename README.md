@@ -5,7 +5,7 @@
 
 - 💡 I'm interested in **software development, robotics, data science, and hardware engineering**
 
-- 🔭 I’m currently working as a **web developer for [Toontown Rewritten](https://toontownrewritten.com/)** and seeking a summer internship
+- 🔭 I’m currently working as a volunteer **web developer for [Toontown Rewritten](https://toontownrewritten.com/)** and seeking a summer internship
 
 - 🌱 I’m currently learning **Data Structures, React, and Django**
 
