@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures, React, and Django**
 
-- 👨‍💻 My portfolio is available at [https://ivanovich.us/porfolio](https://ivanovich.us/porfolio)
+- 👨‍💻 My portfolio is available at [https://ivanovich.us/portfolio](https://ivanovich.us/portfolio)
 
 - 📫 Reach me at **[d.ivanovich@columbia.edu](mailto:d.ivanovich@columbia.edu)**
 
