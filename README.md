@@ -1,15 +1,15 @@
 <a align="center" href="https://ivanovich.us/portfolio" target="_blank"><img src="./assets/Header.png" alt="GitHub Banner"> </a>
 <h3 align="center">I'm a first-year Computer Engineering student @ <a href="https://www.columbia.edu/" target="_blank">Columbia University</a></h3>
 
-- 💡 I'm interested in **software development, robotics, data science, and hardware engineering**
+💡 I'm interested in **software development, robotics, data science, and hardware engineering**
 
-- 🔭 I’m currently working as a volunteer **web developer for [Toontown Rewritten](https://toontownrewritten.com/)** and seeking a summer internship
+🔭 I’m currently working as a volunteer **web developer for [Toontown Rewritten](https://toontownrewritten.com/)** and seeking a summer internship
 
-- 🌱 I’m currently learning **Data Structures, React, and Django**
+🌱 I’m currently learning **Data Structures, React, and Django**
 
-- 👨‍💻 My portfolio is available at [https://ivanovich.us/portfolio](https://ivanovich.us/portfolio)
+👨‍💻 My portfolio is available at [https://ivanovich.us/portfolio](https://ivanovich.us/portfolio)
 
-- 📫 Reach me at **[d.ivanovich@columbia.edu](mailto:d.ivanovich@columbia.edu)**
+📫 Reach me at **[d.ivanovich@columbia.edu](mailto:d.ivanovich@columbia.edu)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
