@@ -1,11 +1,11 @@
 <a align="center" href="https://ivanovich.us/portfolio" target="_blank"><img src="./assets/Header.png" alt="GitHub Banner"> </a>
-<h3 align="center">I'm a first-year Computer Engineering student @ <a href="https://www.columbia.edu/" target="_blank">Columbia University</a></h3>
+<h3 align="center">I'm a second-year Computer Engineering student @ <a href="https://www.columbia.edu/" target="_blank">Columbia University</a></h3>
 
 💡 I'm interested in **software development, robotics, data science, and hardware engineering**
 
-🔭 I’m currently working as a **software engineering intern at [Blumint](https://twitter.com/Blumint_NFT)** a volunteer **web developer at [Toontown Rewritten](https://toontownrewritten.com/)**
+🔭 I’m currently working as a **software engineering intern at [Blumint](https://blumint.io/)** and a volunteer **web developer at [Toontown Rewritten](https://toontownrewritten.com/)**
 
-🌱 I’m currently learning **React and Django**
+🌱 I’m currently learning **Next.js and Django**
 
 👨‍💻 My portfolio is available at [https://ivanovich.us/portfolio](https://ivanovich.us/portfolio)
 
