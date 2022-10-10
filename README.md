@@ -5,7 +5,7 @@
 
 🔭 I’m currently working as a **software engineering intern at [Blumint](https://blumint.io/)** and a volunteer **web developer at [Toontown Rewritten](https://toontownrewritten.com/)**
 
-🌱 I’m currently learning **Next.js and Django**
+🌱 I’m currently learning **Go and MATLAB**
 
 👨‍💻 My portfolio is available at [https://ivanovich.us/portfolio](https://ivanovich.us/portfolio)
 
