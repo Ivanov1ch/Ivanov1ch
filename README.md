@@ -3,7 +3,7 @@
 
 💡 I'm interested in **software development, robotics, data science, and hardware engineering**
 
-🔭 I’m currently working as a **Cyber Engineering Intern at [MITRE](https://mitre.org/)**
+🔭 I’m currently working as a **Cyber Engineering Intern at [MITRE](https://www.mitre.org/)**
 
 🌱 I’m currently learning **Docker**
 
