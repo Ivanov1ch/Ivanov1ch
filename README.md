@@ -3,9 +3,9 @@
 
 💡 I'm interested in **software development, robotics, data science, and hardware engineering**
 
-🔭 I’m currently working as a volunteer **web developer at [Toontown Rewritten](https://toontownrewritten.com/)**
+🔭 I’m currently working as a **Cyber Engineering Intern at [MITRE](https://mitre.org/)**
 
-🌱 I’m currently learning **C++, Computer Networking, Database Design, and Competitive Programming**
+🌱 I’m currently learning **Docker**
 
 👨‍💻 My portfolio is available at [https://ivanovich.us/portfolio](https://ivanovich.us/portfolio)
 
