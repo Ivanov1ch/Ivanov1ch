@@ -5,7 +5,7 @@
 
 🔭 I’m currently working as a **Course Assistant for [Professor Roxana Geambasu's graduate-level distributed systems course](https://systems.cs.columbia.edu/ds1-class/)**, taught in Go. This summer, I worked as a **Cyber Engineering Intern at [MITRE](https://www.mitre.org/)**.
 
-🌱 I’m currently learning **Malware Analysis**, **Reverse Engineering**, **Computer Science Theory**, and **Computer Architecture**
+🌱 I’m currently learning **Computer Architecture**
 
 👨‍💻 My portfolio is available at [https://ivanovich.us/portfolio](https://ivanovich.us/portfolio)
 
