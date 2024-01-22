@@ -1,11 +1,11 @@
 <a align="center" href="https://ivanovich.us/portfolio" target="_blank"><img src="./assets/Header.png" alt="GitHub Banner"> </a>
 <h3 align="center">I'm a third-year Computer Engineering student @ <a href="https://www.columbia.edu/" target="_blank">Columbia University</a></h3>
 
-💡 I'm interested in **software development, cyber security, robotics, and hardware engineering**
+💡 I'm interested in **software development, cybersecurity, and robotics**
 
-🔭 I’m currently working as a **Course Assistant for [Professor Roxana Geambasu's graduate-level distributed systems course](https://systems.cs.columbia.edu/ds1-class/)**, taught in Go. This summer, I worked as a **Cyber Engineering Intern at [MITRE](https://www.mitre.org/)**.
+🔭 I’m currently interning as an **Embedded Security Researcher at [Red Balloon Security](https://redballoonsecurity.com/)**. For more details about my experience, see **<a href="https://linkedin.com/in/divanovich" target="blank">my LinkedIn</a>**.
 
-🌱 I’m currently learning **Computer Architecture**
+🌱 I’m currently learning **Operating Systems** and **Hardware Security**
 
 👨‍💻 My portfolio is available at [https://ivanovich.us/portfolio](https://ivanovich.us/portfolio)
 
