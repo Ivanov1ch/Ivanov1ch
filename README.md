@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **Operating Systems** and **Hardware Security**
 
-👨‍💻 My portfolio is available at [https://ivanovich.us/portfolio](https://ivanovich.us/portfolio)
+👨‍💻 My portfolio is available at [ivanovi.ch/portfolio](https://ivanovi.ch/portfolio)
 
 📫 Reach me at **[d.ivanovich@columbia.edu](mailto:d.ivanovich@columbia.edu)**
 
