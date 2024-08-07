@@ -1,5 +1,5 @@
 <a align="center" href="https://ivanovich.us/portfolio" target="_blank"><img src="./assets/Header.png" alt="GitHub Banner"> </a>
-<h3 align="center">I'm a third-year Computer Engineering student @ <a href="https://www.columbia.edu/" target="_blank">Columbia University</a></h3>
+<h3 align="center">I'm a last-semester Computer Engineering student @ <a href="https://www.columbia.edu/" target="_blank">Columbia University</a></h3>
 
 💡 I'm interested in **software development, cybersecurity, and robotics**
 
