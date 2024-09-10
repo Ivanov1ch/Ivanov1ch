@@ -3,7 +3,7 @@
 
 💡 I'm interested in **cybersecurity, software development, and robotics**
 
-🔭 Incoming @ [Jane Street](https://www.janestreet.com/). Previously researching embedded security @ **[Red Balloon Security](https://redballoonsecurity.com/)**. For more details about my experience, see **<a href="https://linkedin.com/in/divanovich" target="blank">my LinkedIn</a>**.
+🔭 Incoming @ **[Jane Street](https://www.janestreet.com/)**. Previously researching embedded security @ **[Red Balloon Security](https://redballoonsecurity.com/)**. For more details about my experience, see **<a href="https://linkedin.com/in/divanovich" target="blank">my LinkedIn</a>**.
 
 👨‍💻 My portfolio is available at [ivanovi.ch/portfolio](https://ivanovi.ch/portfolio)
 
