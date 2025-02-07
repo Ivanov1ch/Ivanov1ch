@@ -1,5 +1,5 @@
 <a align="center" href="https://ivanovi.ch" target="_blank"><img src="./assets/Header.png" alt="GitHub Banner"> </a>
-<h3 align="center">I studied Computer Engineering @ <a href="https://www.columbia.edu/" target="_blank">Columbia University</a></h3>
+<h4 align="center">I'm a Cybersecurity Analyst. I studied Computer Engineering @ <a href="https://www.columbia.edu/" target="_blank">Columbia University</a></h4>
 
 💡 I'm interested in **cybersecurity, software development, and robotics**
 
