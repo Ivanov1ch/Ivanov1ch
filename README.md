@@ -1,9 +1,9 @@
-<a align="center" href="https://ivanovich.us/portfolio" target="_blank"><img src="./assets/Header.png" alt="GitHub Banner"> </a>
-<h3 align="center">I'm a last-semester Computer Engineering student @ <a href="https://www.columbia.edu/" target="_blank">Columbia University</a></h3>
+<a align="center" href="https://ivanovi.ch" target="_blank"><img src="./assets/Header.png" alt="GitHub Banner"> </a>
+<h3 align="center">I studied Computer Engineering @ <a href="https://www.columbia.edu/" target="_blank">Columbia University</a></h3>
 
 💡 I'm interested in **cybersecurity, software development, and robotics**
 
-🔭 Incoming @ **[Jane Street](https://www.janestreet.com/)**. Previously researching embedded security @ **[Red Balloon Security](https://redballoonsecurity.com/)**. For more details about my experience, see **<a href="https://linkedin.com/in/divanovich" target="blank">my LinkedIn</a>**.
+🔭 Currently keeping a leading quant trading firm secure. Previously researching embedded security @ **[Red Balloon Security](https://redballoonsecurity.com/)**. For more details about my experience, see **<a href="https://linkedin.com/in/divanovich" target="blank">my LinkedIn</a>** or feel free to reach out.
 
 👨‍💻 My portfolio is available at [ivanovi.ch/portfolio](https://ivanovi.ch/portfolio)
 
