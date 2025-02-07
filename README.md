@@ -3,7 +3,7 @@
 
 💡 I'm interested in **cybersecurity, software development, and robotics**
 
-🔭 Currently keeping a leading quant trading firm secure. Previously researching embedded security @ **[Red Balloon Security](https://redballoonsecurity.com/)**. For more details about my experience, see **<a href="https://linkedin.com/in/divanovich" target="blank">my LinkedIn</a>** or feel free to reach out.
+🔭 Currently keeping a quantitative trading firm secure. Previously researching embedded security @ **[Red Balloon Security](https://redballoonsecurity.com/)**. For more details about my experience, see **<a href="https://linkedin.com/in/divanovich" target="blank">my LinkedIn</a>** or feel free to reach out.
 
 👨‍💻 My portfolio is available at [ivanovi.ch/portfolio](https://ivanovi.ch/portfolio)
 
